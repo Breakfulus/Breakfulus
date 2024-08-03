@@ -1,11 +1,6 @@
 Hi, I’m @Breakfulus!
 
-I'm currently a begginer game dev who works in Godot and is trying to make my dream game a reality!
-
-
-
-Contact me at: www.breakfulus@gmail.com
-
+I'm a wanna be gamedev and artist. Im not doing gamedev-y stuff right now due to unforseen circumstances, but I probably will in the future!
 
 
 <!---
